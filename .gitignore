@@ -1,0 +1,37 @@
+# Python virtual environment
+venv/
+env/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Bytecode files
+*.pyo
+
+# Environment variables
+.env
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Pytest cache
+.pytest_cache/
+.tox/
+
+# SQLite database (if used for testing)
+*.sqlite3
+
+# Docker-specific
+*.tar
